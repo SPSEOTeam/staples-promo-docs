@@ -46,3 +46,5 @@ For high-volume clients, Staples offers proprietary technology platforms:
 * **Support:** 1-800-491-3003
 * **Sustainability:** [Corporate Social Responsibility Report](https://staplespromo.com/corporatesocialresponsibility)
 * **Enterprise Solutions** [Partner with the team Fortune-ranked brands trust for their branded merchandise](https://staplespromo.com/enterprise-solutions)
+## 🤖 AI-Readable Data
+For a condensed, machine-readable version of this documentation, please refer to our [llms.txt](./llms.txt) file.
